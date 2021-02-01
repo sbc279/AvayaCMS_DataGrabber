@@ -1,4 +1,8 @@
 # Avaya CMS Data Grabber
+First off, know this code is rather old. In the vicinity of 8 years old. It hasn't been touched since.
+
+It needs revitalization badly. Or buried?
+
 Collects Avaya CMS call statistics every 3 seconds and pushes the
 data to a SQL database. Up to 32 different Avaya/CMS servers can
 be queried at the same time utilizing separate threads.
